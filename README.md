@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josephineO123/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josephineO123/azure-network-protocols)
+ - <b>Microsoft Azure Subscription, Resource Group, Virtual Machine
+   - [Creating a Subscription, Resource Group and Virtual Machine](https://github.com/josephineO123/azure-network-resource)
 
 <h2>🤳Connect with me:</h2>
 
